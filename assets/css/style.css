@@ -10,17 +10,10 @@ body{
 
 }
 
-section {
+footer{
 
 }
 
-a{
-
-}
-
-p{
-
-}
 
 #Me{
     /*float: left;*/
@@ -36,18 +29,7 @@ p{
     font-size: 30px;
 }
 
-
-
-#links{
-    float:right;
-    text-align: right;
-    width: 100%;
-    padding-right: 120px;
-}
-
-
-
-footer{
+.navbar-fixed-bottom {
     padding:5px;
     margin: 0px 0px 0px 0px;
     background: #666666;
@@ -58,19 +40,24 @@ footer{
     border-top: solid #4aaaa5;
     border-top-width: 6px;
     text-align: center;
+
 }
+
+.panel-footer{
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+    background: #666666;
+    clear: both;
+    border-top: solid #4aaaa5;
+    border-top-width: 6px;
+    text-align: center;
+
+ }
 
 #footerp{
     color: white;
 }
 
-
-
-.clearfix: after{
-    clear: both;
-    content: "";
-
-}
 
 
 
@@ -123,23 +110,11 @@ footer{
     width:210px;
 }
 
-.contactline-separator{
-height:1px;
-background:#000000;
-margin: 20px 0px 20px 0px;
-border-bottom:2px solid #e0e0e0;
-}
-
-.titleline-separator{
-height:1px;
-background:#000000;
-margin: 10px 0px 7px 0px;
-border-bottom:2.5px solid #e0e0e0;
-}
-
 #form{
 
     font-family: Helvetica;
+    margin: 10px 0px 7px 20px;
+
 
 }
 
@@ -149,3 +124,5 @@ border-bottom:2.5px solid #e0e0e0;
     font-size: 20px;
     padding: 5px 10px 5px 10px;
 }
+
+
