@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-This is a portfolio that displays all of my coding projects
+This is a portfolio website made with Bootstrap CSS
 
 Technologies Used
 
